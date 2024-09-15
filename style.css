@@ -1,0 +1,20 @@
+.crypto-widget {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.crypto-widget h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.crypto-widget ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.crypto-widget li {
+    padding: 5px 0;
+    font-size: 14px;
+}
